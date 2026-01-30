@@ -7,8 +7,7 @@ OrcID:  0000-0002-4279-8511
 
 Timings are extracted from the final timetable for the "gw"-module entry in the TOTAL TIME MAXIMUM column, e.g. 13852.29 for
                 gw                                   1  5.0     0.00     0.00 13851.15 13852.29
-The W timing in Subfigure c is extracted from the print in the GW module, e.g., 1244.7 from
-                Computed W(iτ,k) for k-point batch           1 /  1, Execution time    1244.7 s
+     
 The timing for 3c integral in Subfigure e is extracted from the TOTAL TIME MAXIMUM column for the "compute_3c_integrals"-module
 
 Licenses:       None/?
