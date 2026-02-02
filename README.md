@@ -5,10 +5,10 @@ Mail:   maximilian.graml(at)ur.de
 OrcID:  0000-0002-4279-8511
 
 
-Timings are extracted from the final timetable for the "gw"-module entry in the TOTAL TIME MAXIMUM column, e.g. 13852.29 for
+Timings are extracted from the final timetable in each `cp2k.out`-file for the `gw`-module entry in the TOTAL TIME MAXIMUM column, e.g. 13852.29 for
                 gw                                   1  5.0     0.00     0.00 13851.15 13852.29
      
-The timing for 3c integral in Subfigure e is extracted from the TOTAL TIME MAXIMUM column for the "compute_3c_integrals"-module
+By analogy, the timing for 3c integral in Subfigure e is extracted from the TOTAL TIME MAXIMUM column for the `compute_3c_integrals`-module
 
 Licenses:       None/?
 
