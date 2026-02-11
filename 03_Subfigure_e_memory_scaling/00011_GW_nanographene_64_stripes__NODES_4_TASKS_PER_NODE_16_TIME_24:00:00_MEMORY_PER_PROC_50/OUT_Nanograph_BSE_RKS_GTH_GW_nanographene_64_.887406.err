@@ -1,0 +1,811 @@
+cpu-bind=MASK - lcn1322, task  0  0 [248607]: mask |BBBBBBBB|BBBBBBBB|BBBBBBBB|BBBBBBBB|BBBBBBBB|BBBBBBBB|BBBBBBBB|BBBBBBBB|BBBBBBBB|BBBBBBBB|BBBBBBBB|BBBBBBBB||||BBBBBBBB|BBBBBBBB|BBBBBBBB|BBBBBBBB|BBBBBBBB|BBBBBBBB|BBBBBBBB|BBBBBBBB|BBBBBBBB|BBBBBBBB|BBBBBBBB|BBBBBBBB|  set
+Running "module reset". Resetting modules to system default. The following $MODULEPATH directories have been removed: None
+Running "module reset". Resetting modules to system default. The following $MODULEPATH directories have been removed: None
+corrupted double-linked list
+corrupted double-linked list
+corrupted double-linked list
+
+Program received signal SIGABRT: Process abort signal.
+
+Backtrace for this error:
+corrupted double-linked list
+corrupted double-linked list
+
+Program received signal SIGABRT: Process abort signal.
+
+Backtrace for this error:
+
+Program received signal SIGABRT: Process abort signal.
+
+Backtrace for this error:
+corrupted double-linked list
+corrupted double-linked list
+
+Program received signal SIGABRT: Process abort signal.
+
+Backtrace for this error:
+corrupted double-linked list
+
+Program received signal SIGABRT: Process abort signal.
+
+Backtrace for this error:
+corrupted double-linked list
+
+Program received signal SIGABRT: Process abort signal.
+
+Program received signal SIGABRT: Process abort signal.
+
+Backtrace for this error:
+corrupted double-linked list
+corrupted double-linked list
+
+Program received signal SIGABRT: Process abort signal.
+
+Backtrace for this error:
+
+Backtrace for this error:
+corrupted double-linked list
+
+Program received signal SIGABRT: Process abort signal.
+
+Backtrace for this error:
+
+Program received signal SIGABRT: Process abort signal.
+
+Backtrace for this error:
+corrupted double-linked list
+
+Program received signal SIGABRT: Process abort signal.
+
+Backtrace for this error:
+
+Program received signal SIGABRT: Process abort signal.
+
+Backtrace for this error:
+
+Program received signal SIGABRT: Process abort signal.
+
+Backtrace for this error:
+corrupted double-linked list
+
+Program received signal SIGABRT: Process abort signal.
+
+Backtrace for this error:
+corrupted double-linked list
+
+Program received signal SIGABRT: Process abort signal.
+
+Backtrace for this error:
+corrupted double-linked list
+
+Program received signal SIGABRT: Process abort signal.
+
+Backtrace for this error:
+corrupted double-linked list
+
+Program received signal SIGABRT: Process abort signal.
+
+Backtrace for this error:
+corrupted double-linked list
+corrupted double-linked list
+corrupted double-linked list
+
+Program received signal SIGABRT: Process abort signal.
+corrupted double-linked list
+
+Program received signal SIGABRT: Process abort signal.
+
+Backtrace for this error:
+
+Program received signal SIGABRT: Process abort signal.
+
+Backtrace for this error:
+
+Backtrace for this error:
+corrupted double-linked list
+
+Program received signal SIGABRT: Process abort signal.
+
+Backtrace for this error:
+corrupted double-linked list
+
+Program received signal SIGABRT: Process abort signal.
+
+Backtrace for this error:
+corrupted double-linked list
+
+Program received signal SIGABRT: Process abort signal.
+
+Backtrace for this error:
+
+Program received signal SIGABRT: Process abort signal.
+
+Backtrace for this error:
+#0  0x14b843654daf in ???
+#1  0x14b8436a154c in ???
+#2  0x14b843654d05 in ???
+#3  0x14b8436287f2 in ???
+#4  0x14b84362912f in ???
+#5  0x14b8436ab616 in ???
+#6  0x14b8436ac16b in ???
+#7  0x14b8436ad1ca in ???
+#8  0x14b8436af954 in ???
+#9  0x14b843ef519e in ???
+#10  0x14b843e638f9 in ???
+#11  0x14b843e64028 in ???
+#12  0x14b842cb0cb9 in ???
+#13  0x14b842ca60ee in ???
+#14  0x14b843e93259 in ???
+#15  0x14b843e95eab in ???
+#16  0x14b843e97424 in ???
+#17  0x14b843e8f7b0 in ???
+#18  0x14b8452418c8 in ???
+#0  0x151c4fc54daf in ???
+#0  0x154c9e654daf in ???
+#1  0x151c4fca154c in ???
+#2  0x151c4fc54d05 in ???
+#3  0x151c4fc287f2 in ???
+#1  0x154c9e6a154c in ???
+#2  0x154c9e654d05 in ???
+#3  0x154c9e6287f2 in ???
+#4  0x154c9e62912f in ???
+#5  0x154c9e6ab616 in ???
+#6  0x154c9e6ac16b in ???
+#7  0x154c9e6ac2cd in ???
+#8  0x154c9e6ad32f in ???
+#9  0x154c9e6af954 in ???
+#4  0x151c4fc2912f in ???
+#5  0x151c4fcab616 in ???
+#6  0x151c4fcac16b in ???
+#7  0x151c4fcad1ca in ???
+#8  0x151c4fcaf954 in ???
+#10  0x154c9f01f73f in ???
+#11  0x154c9f058468 in ???
+#12  0x154c9f01d2c8 in ???
+#13  0x154c9ef8b8f9 in ???
+#14  0x154c9ef8c028 in ???
+#9  0x151c506c319e in ???
+#10  0x151c506318f9 in ???
+#11  0x151c50632028 in ???
+#15  0x154c9e075cb9 in ???
+#16  0x154c9e06b0ee in ???
+#17  0x154c9efbb259 in ???
+#18  0x154c9efbdeab in ???
+#19  0x154c9efbf424 in ???
+#20  0x154c9efb77b0 in ???
+#21  0x154ca03698c8 in ???
+#12  0x151c4f675cb9 in ???
+#13  0x151c4f66b0ee in ???
+#14  0x151c50661259 in ???
+#15  0x151c50663eab in ???
+#16  0x151c50665424 in ???
+#17  0x151c5065d7b0 in ???
+#18  0x151c51a0f8c8 in ???
+#0  0x14fa22e54daf in ???
+#1  0x14fa22ea154c in ???
+#2  0x14fa22e54d05 in ???
+#3  0x14fa22e287f2 in ???
+#4  0x14fa22e2912f in ???
+#5  0x14fa22eab616 in ???
+#6  0x14fa22eac16b in ???
+#7  0x14fa22ead1ca in ???
+#8  0x14fa22eaf954 in ???
+#9  0x14fa2375519e in ???
+#10  0x14fa236c38f9 in ???
+#11  0x14fa236c4028 in ???
+#12  0x14fa224b0cb9 in ???
+#13  0x14fa224a60ee in ???
+#14  0x14fa236f3259 in ???
+#15  0x14fa236f5eab in ???
+#16  0x14fa236f7424 in ???
+#17  0x14fa236ef7b0 in ???
+#18  0x14fa24aa18c8 in ???
+#19  0x14b84859f682 in __message_passing_MOD_mp_world_finalize
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/mpiwrap/message_passing.F:1358
+#22  0x154ca36c7682 in __message_passing_MOD_mp_world_finalize
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/mpiwrap/message_passing.F:1358
+#19  0x14fa27dff682 in __message_passing_MOD_mp_world_finalize
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/mpiwrap/message_passing.F:1358
+#19  0x151c54d6d682 in __message_passing_MOD_mp_world_finalize
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/mpiwrap/message_passing.F:1358
+#20  0x14b8468fc384 in __f77_interface_MOD_finalize_cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/f77_interface.F:364
+#23  0x154ca1a24384 in __f77_interface_MOD_finalize_cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/f77_interface.F:364
+#21  0x4029c2 in cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:389
+#22  0x40226e in main
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:44
+#24  0x4029c2 in cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:389
+#25  0x40226e in main
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:44
+#20  0x14fa2615c384 in __f77_interface_MOD_finalize_cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/f77_interface.F:364
+#20  0x151c530ca384 in __f77_interface_MOD_finalize_cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/f77_interface.F:364
+#21  0x4029c2 in cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:389
+#22  0x40226e in main
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:44
+#21  0x4029c2 in cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:389
+#22  0x40226e in main
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:44
+#0  0x152c30a54daf in ???
+#1  0x152c30aa154c in ???
+#2  0x152c30a54d05 in ???
+#3  0x152c30a287f2 in ???
+#4  0x152c30a2912f in ???
+#5  0x152c30aab616 in ???
+#6  0x152c30aac16b in ???
+#7  0x152c30aac30f in ???
+#8  0x152c30aad32f in ???
+#9  0x152c30aaf954 in ???
+#10  0x152c313f5250 in ???
+#11  0x152c313ba2c8 in ???
+#12  0x152c313288f9 in ???
+#13  0x152c31329028 in ???
+#14  0x152c30475cb9 in ???
+#15  0x152c3046b0ee in ???
+#0  0x1541d5a54daf in ???
+#1  0x1541d5aa154c in ???
+#2  0x1541d5a54d05 in ???
+#3  0x1541d5a287f2 in ???
+#4  0x1541d5a2912f in ???
+#5  0x1541d5aab616 in ???
+#6  0x1541d5aac16b in ???
+#7  0x1541d5aac2cd in ???
+#8  0x1541d5aad32f in ???
+#9  0x1541d5aaf954 in ???
+#16  0x152c31358259 in ???
+#17  0x152c3135aeab in ???
+#18  0x152c3135c424 in ???
+#19  0x152c313547b0 in ???
+#20  0x152c327068c8 in ???
+#10  0x1541d647f2dc in ???
+#11  0x1541d63ed8f9 in ???
+#12  0x1541d63ee028 in ???
+#0  0x14d32a454daf in ???
+#1  0x14d32a4a154c in ???
+#2  0x14d32a454d05 in ???
+#3  0x14d32a4287f2 in ???
+#4  0x14d32a42912f in ???
+#5  0x14d32a4ab616 in ???
+#6  0x14d32a4ac16b in ???
+#7  0x14d32a4ad1ca in ???
+#8  0x14d32a4af954 in ???
+#9  0x14d32adf9038 in ???
+#13  0x1541d5475cb9 in ???
+#14  0x1541d546b0ee in ???
+#15  0x1541d641d259 in ???
+#16  0x1541d641feab in ???
+#17  0x1541d6421424 in ???
+#18  0x1541d64197b0 in ???
+#10  0x14d329e75cb9 in ???
+#11  0x14d329e6b0ee in ???
+#12  0x14d32ae28259 in ???
+#13  0x14d32ae2aeab in ???
+#14  0x14d32ae2c424 in ???
+#15  0x14d32ae247b0 in ???
+#19  0x1541d77cb8c8 in ???
+#16  0x14d32c1d68c8 in ???
+#0  0x153c8b454daf in ???
+#1  0x153c8b4a154c in ???
+#2  0x153c8b454d05 in ???
+#3  0x153c8b4287f2 in ???
+#4  0x153c8b42912f in ???
+#5  0x153c8b4ab616 in ???
+#6  0x153c8b4ac16b in ???
+#7  0x153c8b4ac2cd in ???
+#8  0x153c8b4ad32f in ???
+#9  0x153c8b4af954 in ???
+#10  0x153c8be36480 in ???
+#11  0x153c8bdfb2c8 in ???
+#12  0x153c8bd698f9 in ???
+#13  0x153c8bd6a028 in ???
+#14  0x153c8ae75cb9 in ???
+#15  0x153c8ae6b0ee in ???
+#16  0x153c8bd99259 in ???
+#17  0x153c8bd9beab in ???
+#18  0x153c8bd9d424 in ???
+#19  0x153c8bd957b0 in ???
+#20  0x153c8d1478c8 in ???
+#0  0x15268aa54daf in ???
+#1  0x15268aaa154c in ???
+#2  0x15268aa54d05 in ???
+#3  0x15268aa287f2 in ???
+#4  0x15268aa2912f in ???
+#5  0x15268aaab616 in ???
+#6  0x15268aaac16b in ???
+#7  0x15268aaad1ca in ???
+#8  0x15268aaaf954 in ???
+#9  0x15268b2e02dc in ???
+#10  0x15268b24e8f9 in ???
+#11  0x15268b24f028 in ???
+#12  0x15268a0b0cb9 in ???
+#13  0x15268a0a60ee in ???
+#14  0x15268b27e259 in ???
+#15  0x15268b280eab in ???
+#16  0x15268b282424 in ???
+#17  0x15268b27a7b0 in ???
+#18  0x15268c62c8c8 in ???
+#0  0x15221e054daf in ???
+#1  0x15221e0a154c in ???
+#2  0x15221e054d05 in ???
+#3  0x15221e0287f2 in ???
+#4  0x15221e02912f in ???
+#5  0x15221e0ab616 in ???
+#6  0x15221e0ac16b in ???
+#7  0x15221e0ac2cd in ???
+#8  0x15221e0ad32f in ???
+#9  0x15221e0af954 in ???
+#10  0x15221e93019e in ???
+#11  0x15221e89e8f9 in ???
+#12  0x15221e89f028 in ???
+#13  0x15221d6b0cb9 in ???
+#14  0x15221d6a60ee in ???
+#15  0x15221e8ce259 in ???
+#16  0x15221e8d0eab in ???
+#17  0x15221e8d2424 in ???
+#18  0x15221e8ca7b0 in ???
+#19  0x15221fc7c8c8 in ???
+#21  0x152c35a64682 in __message_passing_MOD_mp_world_finalize
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/mpiwrap/message_passing.F:1358
+#17  0x14d32f534682 in __message_passing_MOD_mp_world_finalize
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/mpiwrap/message_passing.F:1358
+#21  0x153c904a5682 in __message_passing_MOD_mp_world_finalize
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/mpiwrap/message_passing.F:1358
+#19  0x15268f98a682 in __message_passing_MOD_mp_world_finalize
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/mpiwrap/message_passing.F:1358
+#20  0x1541dab29682 in __message_passing_MOD_mp_world_finalize
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/mpiwrap/message_passing.F:1358
+#20  0x152222fda682 in __message_passing_MOD_mp_world_finalize
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/mpiwrap/message_passing.F:1358
+#22  0x152c33dc1384 in __f77_interface_MOD_finalize_cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/f77_interface.F:364
+#21  0x1541d8e86384 in __f77_interface_MOD_finalize_cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/f77_interface.F:364
+#18  0x14d32d891384 in __f77_interface_MOD_finalize_cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/f77_interface.F:364
+#22  0x153c8e802384 in __f77_interface_MOD_finalize_cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/f77_interface.F:364
+#20  0x15268dce7384 in __f77_interface_MOD_finalize_cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/f77_interface.F:364
+#23  0x4029c2 in cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:389
+#24  0x40226e in main
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:44
+#19  0x4029c2 in cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:389
+#20  0x40226e in main
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:44
+#23  0x4029c2 in cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:389
+#24  0x40226e in main
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:44
+#22  0x4029c2 in cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:389
+#23  0x40226e in main
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:44
+#21  0x4029c2 in cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:389
+#22  0x40226e in main
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:44
+#21  0x152221337384 in __f77_interface_MOD_finalize_cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/f77_interface.F:364
+#22  0x4029c2 in cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:389
+#23  0x40226e in main
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:44
+#0  0x14cbc0254daf in ???
+#1  0x14cbc02a154c in ???
+#2  0x14cbc0254d05 in ???
+#3  0x14cbc02287f2 in ???
+#4  0x14cbc022912f in ???
+#5  0x14cbc02ab616 in ???
+#6  0x14cbc02ac16b in ???
+#7  0x14cbc02ac2cd in ???
+#8  0x14cbc02ad32f in ???
+#9  0x14cbc02af954 in ???
+#10  0x14cbc0a9b088 in ???
+#11  0x14cbbf8b0cb9 in ???
+#12  0x14cbbf8a60ee in ???
+#13  0x14cbc0aca259 in ???
+#14  0x14cbc0acceab in ???
+#15  0x14cbc0ace424 in ???
+#16  0x14cbc0ac67b0 in ???
+#17  0x14cbc1e788c8 in ???
+#0  0x15105c454daf in ???
+#1  0x15105c4a154c in ???
+#2  0x15105c454d05 in ???
+#3  0x15105c4287f2 in ???
+#4  0x15105c42912f in ???
+#5  0x15105c4ab616 in ???
+#6  0x15105c4ac16b in ???
+#7  0x15105c4ac2cd in ???
+#8  0x15105c4ad32f in ???
+#9  0x15105c4af954 in ???
+#10  0x15105bb8f608 in ???
+#11  0x15105cc4d028 in ???
+#12  0x15105bab0cb9 in ???
+#13  0x15105baa60ee in ???
+#14  0x15105cc7c259 in ???
+#15  0x15105cc7eeab in ???
+#16  0x15105cc80424 in ???
+#17  0x15105cc787b0 in ???
+#18  0x15105e02a8c8 in ???
+#0  0x1473e9454daf in ???
+#1  0x1473e94a154c in ???
+#2  0x1473e9454d05 in ???
+#3  0x1473e94287f2 in ???
+#4  0x1473e942912f in ???
+#5  0x1473e94ab616 in ???
+#6  0x1473e94ac16b in ???
+#7  0x1473e94ac2cd in ???
+#8  0x1473e94ad32f in ???
+#9  0x1473e94af954 in ???
+#10  0x1473e9d0a2dc in ???
+#11  0x1473e9c788f9 in ???
+#12  0x1473e9c79028 in ???
+#13  0x1473e8ab0cb9 in ???
+#0  0x14d93f254daf in ???
+#0  0x154dc7654daf in ???
+#1  0x154dc76a154c in ???
+#2  0x154dc7654d05 in ???
+#3  0x154dc76287f2 in ???
+#4  0x154dc762912f in ???
+#5  0x154dc76ab616 in ???
+#6  0x154dc76ac16b in ???
+#14  0x1473e8aa60ee in ???
+#15  0x1473e9ca8259 in ???
+#16  0x1473e9caaeab in ???
+#17  0x1473e9cac424 in ???
+#18  0x1473e9ca47b0 in ???
+#19  0x1473eb0568c8 in ???
+#0  0x14a557a54daf in ???
+#1  0x14a557aa154c in ???
+#2  0x14a557a54d05 in ???
+#3  0x14a557a287f2 in ???
+#1  0x14d93f2a154c in ???
+#2  0x14d93f254d05 in ???
+#3  0x14d93f2287f2 in ???
+#4  0x14d93f22912f in ???
+#5  0x14d93f2ab616 in ???
+#6  0x14d93f2ac16b in ???
+#7  0x14d93f2acd48 in ???
+#8  0x14d93f2af954 in ???
+#0  0x149303c54daf in ???
+#1  0x149303ca154c in ???
+#2  0x149303c54d05 in ???
+#3  0x149303c287f2 in ???
+#4  0x149303c2912f in ???
+#5  0x149303cab616 in ???
+#6  0x149303cac16b in ???
+#7  0x149303cacd48 in ???
+#8  0x149303caf954 in ???
+#7  0x154dc76ad1ca in ???
+#8  0x154dc76af954 in ???
+#9  0x154dc805c2dc in ???
+#10  0x154dc7fca8f9 in ???
+#11  0x154dc7fcb028 in ???
+#4  0x14a557a2912f in ???
+#5  0x14a557aab616 in ???
+#6  0x14a557aac16b in ???
+#7  0x14a557aad1ca in ???
+#8  0x14a557aaf954 in ???
+#9  0x14d93fc13250 in ???
+#10  0x14d93fbd82c8 in ???
+#11  0x14d93fb468f9 in ???
+#12  0x14d93fb47028 in ???
+#12  0x154dc7075cb9 in ???
+#13  0x154dc706b0ee in ???
+#14  0x154dc7ffa259 in ???
+#15  0x154dc7ffceab in ???
+#9  0x14a558449250 in ???
+#10  0x14a55840e2c8 in ???
+#11  0x14a55837c8f9 in ???
+#12  0x14a55837d028 in ???
+#13  0x14d93ec75cb9 in ???
+#14  0x14d93ec6b0ee in ???
+#15  0x14d93fb76259 in ???
+#16  0x14d93fb78eab in ???
+#17  0x14d93fb7a424 in ???
+#9  0x14930461919e in ???
+#10  0x1493045878f9 in ???
+#11  0x149304588028 in ???
+#12  0x149303675cb9 in ???
+#13  0x14930366b0ee in ???
+#14  0x1493045b7259 in ???
+#15  0x1493045b9eab in ???
+#16  0x1493045bb424 in ???
+#16  0x154dc7ffe424 in ???
+#17  0x154dc7ff67b0 in ???
+#18  0x154dc93a88c8 in ???
+#13  0x14a557475cb9 in ???
+#14  0x14a55746b0ee in ???
+#15  0x14a5583ac259 in ???
+#18  0x14d93fb727b0 in ???
+#19  0x14d940f248c8 in ???
+#17  0x1493045b37b0 in ???
+#18  0x1493059658c8 in ???
+#16  0x14a5583aeeab in ???
+#17  0x14a5583b0424 in ???
+#18  0x14a5583a87b0 in ???
+#19  0x14a55975a8c8 in ???
+#18  0x14cbc51d6682 in __message_passing_MOD_mp_world_finalize
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/mpiwrap/message_passing.F:1358
+#19  0x14cbc3533384 in __f77_interface_MOD_finalize_cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/f77_interface.F:364
+#20  0x4029c2 in cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:389
+#21  0x40226e in main
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:44
+#19  0x151061388682 in __message_passing_MOD_mp_world_finalize
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/mpiwrap/message_passing.F:1358
+#20  0x15105f6e5384 in __f77_interface_MOD_finalize_cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/f77_interface.F:364
+#21  0x4029c2 in cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:389
+#22  0x40226e in main
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:44
+#20  0x1473ee3b4682 in __message_passing_MOD_mp_world_finalize
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/mpiwrap/message_passing.F:1358
+#20  0x14d944282682 in __message_passing_MOD_mp_world_finalize
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/mpiwrap/message_passing.F:1358
+#19  0x149308cc3682 in __message_passing_MOD_mp_world_finalize
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/mpiwrap/message_passing.F:1358
+#19  0x154dcc706682 in __message_passing_MOD_mp_world_finalize
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/mpiwrap/message_passing.F:1358
+#20  0x14a55cab8682 in __message_passing_MOD_mp_world_finalize
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/mpiwrap/message_passing.F:1358
+#20  0x154dcaa63384 in __f77_interface_MOD_finalize_cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/f77_interface.F:364
+#21  0x1473ec711384 in __f77_interface_MOD_finalize_cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/f77_interface.F:364
+#21  0x14d9425df384 in __f77_interface_MOD_finalize_cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/f77_interface.F:364
+#20  0x149307020384 in __f77_interface_MOD_finalize_cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/f77_interface.F:364
+#21  0x14a55ae15384 in __f77_interface_MOD_finalize_cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/f77_interface.F:364
+#22  0x4029c2 in cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:389
+#23  0x40226e in main
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:44
+#22  0x4029c2 in cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:389
+#23  0x40226e in main
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:44
+#21  0x4029c2 in cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:389
+#22  0x40226e in main
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:44
+#21  0x4029c2 in cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:389
+#22  0x40226e in main
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:44
+#22  0x4029c2 in cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:389
+#23  0x40226e in main
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:44
+#0  0x154652054daf in ???
+#1  0x1546520a154c in ???
+#2  0x154652054d05 in ???
+#3  0x1546520287f2 in ???
+#4  0x15465202912f in ???
+#5  0x1546520ab616 in ???
+#6  0x1546520ac16b in ???
+#0  0x1455b3454daf in ???
+#1  0x1455b34a154c in ???
+#2  0x1455b3454d05 in ???
+#3  0x1455b34287f2 in ???
+#4  0x1455b342912f in ???
+#5  0x1455b34ab616 in ???
+#6  0x1455b34ac16b in ???
+#7  0x1455b34ac2cd in ???
+#8  0x1455b34ad32f in ???
+#9  0x1455b34af954 in ???
+#10  0x1455b3ded088 in ???
+#0  0x14c70ac54daf in ???
+#1  0x14c70aca154c in ???
+#2  0x14c70ac54d05 in ???
+#3  0x14c70ac287f2 in ???
+#4  0x14c70ac2912f in ???
+#5  0x14c70acab616 in ???
+#6  0x14c70acac16b in ???
+#7  0x14c70acac30f in ???
+#8  0x14c70acad32f in ???
+#9  0x14c70acaf954 in ???
+#10  0x14c70b640250 in ???
+#11  0x14c70b6052c8 in ???
+#12  0x14c70b5738f9 in ???
+#13  0x14c70b574028 in ???
+#14  0x14c70a675cb9 in ???
+#15  0x14c70a66b0ee in ???
+#16  0x14c70b5a3259 in ???
+#17  0x14c70b5a5eab in ???
+#18  0x14c70b5a7424 in ???
+#19  0x14c70b59f7b0 in ???
+#20  0x14c70c9518c8 in ???
+#0  0x14733aa54daf in ???
+#1  0x14733aaa154c in ???
+#2  0x14733aa54d05 in ???
+#3  0x14733aa287f2 in ???
+#4  0x14733aa2912f in ???
+#5  0x14733aaab616 in ???
+#6  0x14733aaac16b in ???
+#7  0x14733aaac30f in ???
+#8  0x14733aaad32f in ???
+#9  0x14733aaaf954 in ???
+#10  0x14733b4502dc in ???
+#11  0x14733b3be8f9 in ???
+#12  0x14733b3bf028 in ???
+#13  0x14733a475cb9 in ???
+#14  0x14733a46b0ee in ???
+#15  0x14733b3ee259 in ???
+#16  0x14733b3f0eab in ???
+#17  0x14733b3f2424 in ???
+#18  0x14733b3ea7b0 in ???
+#19  0x14733c79c8c8 in ???
+#0  0x14a07bc54daf in ???
+#1  0x14a07bca154c in ???
+#2  0x14a07bc54d05 in ???
+#3  0x14a07bc287f2 in ???
+#4  0x14a07bc2912f in ???
+#5  0x14a07bcab616 in ???
+#6  0x14a07bcac16b in ???
+#7  0x14a07bcac30f in ???
+#8  0x14a07bcad32f in ???
+#9  0x14a07bcaf954 in ???
+#10  0x14a07c5f1088 in ???
+#11  0x14a07b675cb9 in ???
+#12  0x14a07b66b0ee in ???
+#13  0x14a07c620259 in ???
+#14  0x14a07c622eab in ???
+#15  0x14a07c624424 in ???
+#16  0x14a07c61c7b0 in ???
+#17  0x14a07d9ce8c8 in ???
+#7  0x1546520ad1ca in ???
+#8  0x1546520af954 in ???
+#9  0x15465298340d in ???
+#10  0x1546529482c8 in ???
+#11  0x1546528b68f9 in ???
+#12  0x1546528b7028 in ???
+#13  0x1546516b0cb9 in ???
+#14  0x1546516a60ee in ???
+#15  0x1546528e6259 in ???
+#16  0x1546528e8eab in ???
+#17  0x1546528ea424 in ???
+#18  0x1546528e27b0 in ???
+#19  0x154653c948c8 in ???
+#11  0x1455b2e75cb9 in ???
+#12  0x1455b2e6b0ee in ???
+#13  0x1455b3e1c259 in ???
+#14  0x1455b3e1eeab in ???
+#15  0x1455b3e20424 in ???
+#16  0x1455b3e187b0 in ???
+#17  0x1455b51ca8c8 in ???
+#0  0x14904e054daf in ???
+#1  0x14904e0a154c in ???
+#2  0x14904e054d05 in ???
+#3  0x14904e0287f2 in ???
+#4  0x14904e02912f in ???
+#5  0x14904e0ab616 in ???
+#6  0x14904e0ac16b in ???
+#7  0x14904e0ad1ca in ???
+#8  0x14904e0af954 in ???
+#9  0x14904e9112dc in ???
+#10  0x14904e87f8f9 in ???
+#11  0x14904e880028 in ???
+#12  0x14904d6b0cb9 in ???
+#13  0x14904d6a60ee in ???
+#14  0x14904e8af259 in ???
+#15  0x14904e8b1eab in ???
+#16  0x14904e8b3424 in ???
+#17  0x14904e8ab7b0 in ???
+#18  0x14904fc5d8c8 in ???
+#0  0x154044254daf in ???
+#1  0x1540442a154c in ???
+#2  0x154044254d05 in ???
+#3  0x1540442287f2 in ???
+#4  0x15404422912f in ???
+#5  0x1540442ab616 in ???
+#6  0x1540442ac16b in ???
+#7  0x1540442ad1ca in ???
+#8  0x1540442af954 in ???
+#9  0x154044be073f in ???
+#10  0x154044c193f8 in ???
+#11  0x154044bde2c8 in ???
+#12  0x154044b4c8f9 in ???
+#13  0x154044b4d028 in ???
+#14  0x154043c75cb9 in ???
+#15  0x154043c6b0ee in ???
+#16  0x154044b7c259 in ???
+#17  0x154044b7eeab in ???
+#18  0x154044b80424 in ???
+#19  0x154044b787b0 in ???
+#20  0x154045f2a8c8 in ???
+#21  0x14c70fcaf682 in __message_passing_MOD_mp_world_finalize
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/mpiwrap/message_passing.F:1358
+#20  0x14733fafa682 in __message_passing_MOD_mp_world_finalize
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/mpiwrap/message_passing.F:1358
+#18  0x14a080d2c682 in __message_passing_MOD_mp_world_finalize
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/mpiwrap/message_passing.F:1358
+#18  0x1455b8528682 in __message_passing_MOD_mp_world_finalize
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/mpiwrap/message_passing.F:1358
+#20  0x154656ff2682 in __message_passing_MOD_mp_world_finalize
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/mpiwrap/message_passing.F:1358
+#21  0x154049288682 in __message_passing_MOD_mp_world_finalize
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/mpiwrap/message_passing.F:1358
+#19  0x149052fbb682 in __message_passing_MOD_mp_world_finalize
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/mpiwrap/message_passing.F:1358
+#22  0x14c70e00c384 in __f77_interface_MOD_finalize_cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/f77_interface.F:364
+#21  0x14733de57384 in __f77_interface_MOD_finalize_cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/f77_interface.F:364
+#19  0x14a07f089384 in __f77_interface_MOD_finalize_cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/f77_interface.F:364
+#21  0x15465534f384 in __f77_interface_MOD_finalize_cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/f77_interface.F:364
+#19  0x1455b6885384 in __f77_interface_MOD_finalize_cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/f77_interface.F:364
+#23  0x4029c2 in cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:389
+#24  0x40226e in main
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:44
+#22  0x4029c2 in cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:389
+#23  0x40226e in main
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:44
+#20  0x4029c2 in cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:389
+#21  0x40226e in main
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:44
+#22  0x1540475e5384 in __f77_interface_MOD_finalize_cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/f77_interface.F:364
+#20  0x149051318384 in __f77_interface_MOD_finalize_cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/f77_interface.F:364
+#22  0x4029c2 in cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:389
+#23  0x40226e in main
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:44
+#20  0x4029c2 in cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:389
+#21  0x40226e in main
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:44
+#23  0x4029c2 in cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:389
+#24  0x40226e in main
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:44
+#21  0x4029c2 in cp2k
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:389
+#22  0x40226e in main
+	at /pc2/users/e/eprop2d2/cp2k_dev/build/src/start/cp2k.F:44
+srun: error: lcn1322: task 14: Aborted (core dumped)
+srun: Terminating StepId=887406.0
+slurmstepd: error: *** STEP 887406.0 ON lcn1322 CANCELLED AT 2026-02-06T22:26:33 ***
+srun: error: lcn1322: task 13: Aborted (core dumped)
+srun: error: lcn1322: task 2: Aborted (core dumped)
+srun: error: lcn1523: tasks 48-50,56-57,59-61,63: Terminated
+srun: error: lcn1514: tasks 18-19,22-24,26-27,30-31: Terminated
+srun: error: lcn1515: tasks 32-34,36,38,41,43-45,47: Terminated
+srun: error: lcn1322: task 1: Aborted (core dumped)
+srun: error: lcn1322: tasks 3-12,15: Terminated
+srun: error: lcn1322: task 0: Terminated
+slurmstepd: error:  mpi/pmix_v3: _errhandler: lcn1523 [3]: pmixp_client_v2.c:211: Error handler invoked: status = -25, source = [slurm.pmix.887406.0:57]
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error:  mpi/pmix_v3: _errhandler: lcn1514 [1]: pmixp_client_v2.c:211: Error handler invoked: status = -25, source = [slurm.pmix.887406.0:19]
+srun: error: lcn1515: task 37: Aborted (core dumped)
+srun: error: lcn1515: task 35: Aborted (core dumped)
+srun: error: lcn1515: task 42: Aborted (core dumped)
+srun: error: lcn1515: tasks 40,46: Aborted (core dumped)
+srun: error: lcn1515: task 39: Aborted (core dumped)
+srun: error: lcn1514: tasks 20-21: Aborted (core dumped)
+srun: error: lcn1523: task 55: Aborted (core dumped)
+srun: error: lcn1514: task 17: Aborted (core dumped)
+srun: error: lcn1523: tasks 52,54,62: Aborted (core dumped)
+srun: error: lcn1523: tasks 51,58: Aborted (core dumped)
+srun: error: lcn1523: task 53: Aborted (core dumped)
+srun: error: lcn1514: task 25: Aborted (core dumped)
+srun: error: lcn1514: tasks 16,28-29: Aborted (core dumped)
